@@ -2,3 +2,4 @@ git clone https://github.com/MaksRudenko/RudenkoWEB.git
 cd RudenkoWEB
 git add .
 git commit -m "First"
+git commit -m "Second"
