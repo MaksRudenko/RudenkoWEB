@@ -3,3 +3,4 @@ cd RudenkoWEB
 git add .
 git commit -m "First"
 git commit -m "Second"
+git push
