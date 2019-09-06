@@ -1,1 +1,2 @@
 git clone https://github.com/MaksRudenko/RudenkoWEB.git
+cd RudenkoWEB
